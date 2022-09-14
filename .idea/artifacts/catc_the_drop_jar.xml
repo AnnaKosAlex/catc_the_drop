@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="catc_the_drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/catc_the_drop_jar</output-path>
+    <root id="archive" name="catc_the_drop.jar">
+      <element id="module-output" name="catc_the_drop" />
+    </root>
+  </artifact>
+</component>
